@@ -1,6 +1,6 @@
 # MEDS KDD 2025 Tutorial
 This repository contains relevant files and instructions to reproduce those files for the MEDS KDD 2025
-tutorial.
+tutorial, as well as preserved copies of the jupyter notebooks used in that tutorial.
 
 In general, this repository will not be updated after the KDD 2025 conference, and is not expected to be
 directly useful for tutorial attendees other than as a source to download files when using the Colab notebooks
@@ -13,6 +13,8 @@ This repository contains the following files:
   - `task_config.yaml`: The final ACES task configuration file used in the tutorial.
   - `MEDS_data.zip`: A zip file containing a pre-built version of a MEDS dataset and a label file, which is
     used in the tutorial.
+  - [`jupyter_notebooks/`](jupyter_notebooks): A directory containing the Jupyter notebooks used in the
+    tutorial.
 
 ## MEDS Dataset Generation
 
